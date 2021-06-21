@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585990598586",
+    "project_id": "yearbook-flutter-app",
+    "storage_bucket": "yearbook-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585990598586:android:6632d3ddcc32d5b9ecf783",
+        "android_client_info": {
+          "package_name": "com.example.yearbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585990598586-uouoldbi1jgkvo5cnva0kisp0731l20s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsI9pzdSbHkJ1Pm4Cs7TUxzPOAcLlSH5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585990598586-uouoldbi1jgkvo5cnva0kisp0731l20s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
